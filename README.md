@@ -1,1 +1,1 @@
-# Curso-em-video
+# Jogo Pong em Reinforcement Learning
